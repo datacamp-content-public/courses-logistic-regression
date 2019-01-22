@@ -1,19 +1,17 @@
 ---
-title: 'Chapter Title Here'
+title: 'Introduction to Binary Logistic Regression'
 description: 'Chapter description goes here.'
 ---
 
-## Example coding exercise
+## Insert exercise title here
 
 ```yaml
 type: NormalExercise
-key: 2bafef99a3
-lang: r
+key: f39c0d41c0
 xp: 100
-skills: 1
 ```
 
-This is an example exercise.
+
 
 `@instructions`
 
